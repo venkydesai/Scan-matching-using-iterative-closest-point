@@ -1,1 +1,1 @@
-# Scan-matching-using-iterative-closest-point
+# Scan matching using iterative closest point
